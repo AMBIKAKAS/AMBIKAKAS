@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @AMBIKAKAS
-- 👀 I’m interested in Tech domains
-- 🌱 I’m currently learning Ios development
-- 💞️ I’m looking to collaborate on projects in near future
-- 📫 How to reach me ambikakashyap736@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hey! Ambika Kashyap Here,
 
-<!---
-AMBIKAKAS/AMBIKAKAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+AI Full Stack Developer | MERN Stack Enthusiast | Cloud Computing Student
+
+Passionate about building scalable and impactful web applications focused on AI, full-stack development, and real-world problem solving.
+
+💻 Tech Stack
+Frontend
+React.js
+TypeScript
+JavaScript
+HTML5
+CSS3
+Tailwind CSS
+Backend
+Node.js
+Express.js
+REST APIs
+JWT Authentication
+Database & Cloud
+MongoDB
+Firebase
+AWS Cloud Fundamentals
+Tools & Platforms
+Git & GitHub
+VS Code
+Postman
+Vercel
+Render
+🚀 Projects
+🌾 Farm Flood Aid
+
+Flood assistance and emergency support platform designed to help farmers during disaster situations through resource coordination and aid management.
+
+🌱 SurplusX
+
+Smart surplus management platform focused on reducing waste and improving resource distribution through community-driven sharing systems.
