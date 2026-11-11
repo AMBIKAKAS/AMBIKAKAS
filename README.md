@@ -1,136 +1,163 @@
-# Ambika Kashyap
+# AMBIKA KASHYAP
 
-### Software Developer | AI & Full Stack | Cloud Computing
+### FULL STACK DEVELOPER · AI ENGINEERING · CLOUD COMPUTING
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+intelligent+digital+products.;Engineering+scalable+web+applications.;Exploring+AI%2C+Cloud+%26+System+Design." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Engineering+Modern+Web+Experiences.;Building+Scalable+Full+Stack+Applications.;Integrating+AI+Into+Real-World+Products.;Turning+Ideas+Into+Working+Software." alt="Developer introduction" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/AMBIKAKAS">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/ambika70026/">LinkedIn</a> ·
-  <a href="https://leetcode.com/u/Ambika2024/">LeetCode</a>
+  <a href="https://github.com/AMBIKAKAS"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ambika70026/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Ambika2024/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Engineering-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Interest-AI%20%26%20Cloud-8957E5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-238636?style=flat-square" />
 </p>
 
 ---
 
-## About
+## 01 / ENGINEERING PROFILE
 
-I'm a final-year **B.E. Computer Science (Hons.) – Cloud Computing** student at Chandigarh University, with a CGPA of **8.80**.
+I'm a final-year **B.E. Computer Science (Hons.) – Cloud Computing** student at Chandigarh University, with a **CGPA of 8.80**.
 
-I enjoy building technology-driven products that combine intuitive user experiences, reliable backend systems, and emerging AI capabilities.
+I build end-to-end web applications, combining modern frontend architecture, backend development, database integration, and emerging AI technologies.
 
-My interests span full-stack engineering, AI-powered applications, cloud infrastructure, and scalable software systems. I particularly enjoy translating ideas into practical solutions and communicating technical concepts effectively.
+My approach to software engineering revolves around three principles:
 
-- Building AI-integrated and full-stack applications.
-- Developing responsive interfaces and RESTful services.
-- Exploring cloud infrastructure and modern deployment workflows.
-- Interested in socially impactful technology and product engineering.
-- International hackathon winner for a community-impact project.
+- **Engineering Excellence** — Building maintainable, responsive, and reliable applications.
+- **Product Thinking** — Understanding real-world problems and translating them into practical solutions.
+- **Continuous Innovation** — Exploring AI, cloud infrastructure, and modern development practices.
 
----
-
-## Technical Skills
-
-| Domain | Technologies |
-|---|---|
-| Languages | C++, JavaScript, TypeScript, Java, SQL |
-| Frontend | React.js, Next.js, HTML5, CSS3, Tailwind CSS |
-| Backend | Node.js, Express.js, REST APIs, JWT |
-| Databases | MongoDB, PostgreSQL, Firebase |
-| Cloud | Microsoft Azure, AWS fundamentals |
-| Tools | Git, GitHub, Docker, Postman, VS Code |
+Currently focused on developing impactful software products and strengthening my full-stack engineering capabilities.
 
 ---
 
-## Selected Projects
+## 02 / TECHNOLOGY STACK
+
+### FRONTEND ENGINEERING
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
+</p>
+
+### BACKEND ENGINEERING
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,cpp,java" />
+</p>
+
+### DATABASES & CLOUD
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,azure,aws" />
+</p>
+
+### DEVELOPMENT TOOLS
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+</p>
+
+**Core Competencies:** RESTful API Development · JWT Authentication · Responsive UI Development · Database Integration · Cloud Fundamentals · Browser Automation
+
+---
+
+## 03 / FEATURED ENGINEERING PROJECTS
 
 ### 01. FarmFloodAid
-**AI-assisted disaster support platform for flood-affected farmers**
 
-A community-focused platform designed to improve access to agricultural assistance and emergency resources.
+**AI-ASSISTED DISASTER SUPPORT PLATFORM**
 
+A technology-driven initiative designed to help flood-affected farmers access agricultural assistance, essential resources, and community support.
+
+**Engineering Highlights**
 - AI-powered chatbot for farmer assistance.
-- Crop marketplace for connecting farmers with buyers.
-- NGO directory for resource and aid coordination.
-- Integrated MongoDB, Redis, Supabase and REST APIs.
-- Recognized with the **Myanmar Flood Hackathon Community Impact Award**.
+- Crop marketplace connecting farmers with potential buyers.
+- NGO directory for aid discovery and coordination.
+- MongoDB, Redis, Supabase and REST API integration.
+- Focus on accessibility and real-world community impact.
+
+<kbd>AI Integration</kbd> <kbd>REST APIs</kbd> <kbd>MongoDB</kbd> <kbd>Redis</kbd> <kbd>Supabase</kbd>
+
+**Recognition:** Myanmar Flood Hackathon — Community Impact Award.
+
+---
 
 ### 02. SurplusX
-**Smart food surplus management and resource distribution**
 
-A platform designed to connect restaurants and NGOs to improve food redistribution and reduce unnecessary waste.
+**SMART FOOD SURPLUS MANAGEMENT PLATFORM**
 
-- Role-based dashboards for restaurants, NGOs and administrators.
+A resource-sharing platform designed to reduce food waste by connecting restaurants with NGOs through intelligent surplus distribution.
+
+**Engineering Highlights**
+- Role-based dashboards for restaurants, NGOs, and administrators.
 - JWT-based authentication and authorization.
 - Smart allocation algorithm for surplus distribution.
 - Full-stack implementation using React, Node.js, Express and MongoDB.
 
-### 03. SEO Rank Tracker
-**Automated website auditing and SEO monitoring**
-
-- Browser automation using Playwright.
-- Browserbase integration.
-- Automated website audit workflows.
-- Structured reporting of website performance and SEO findings.
+<kbd>React</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>MongoDB</kbd> <kbd>JWT</kbd>
 
 ---
 
-## Achievements & Certifications
+## 04 / ACHIEVEMENTS & CREDENTIALS
 
-- **Myanmar Flood Hackathon** — Community Impact Award.
-- **Microsoft Azure Fundamentals** — AZ-900.
-- **HackerRank** — SQL Intermediate.
-- **Postman** — API Student Expert.
-- **Oracle Cloud Infrastructure** — Generative AI Professional.
+| Recognition | Achievement |
+|---|---|
+| 🏆 Hackathon | Myanmar Flood Hackathon — Community Impact Award |
+| ☁️ Microsoft | Azure Fundamentals — AZ-900 |
+| 🗄️ HackerRank | SQL Intermediate |
+| 🔌 Postman | API Student Expert |
+| 🤖 Oracle Cloud | Generative AI Professional |
 
 ---
 
-## GitHub Statistics
+## 05 / GITHUB ENGINEERING ACTIVITY
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AMBIKAKAS&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMBIKAKAS&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AMBIKAKAS&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMBIKAKAS&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=AMBIKAKAS&theme=github-dark-blue&hide_border=true" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=AMBIKAKAS&theme=github-dark-blue&hide_border=true" />
 </p>
 
----
-
-## Contribution Activity
+### Contribution Graph
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AMBIKAKAS/AMBIKAKAS/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AMBIKAKAS/AMBIKAKAS/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AMBIKAKAS/AMBIKAKAS/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AMBIKAKAS/AMBIKAKAS/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AMBIKAKAS/AMBIKAKAS/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/AMBIKAKAS/AMBIKAKAS/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </p>
 
 ---
 
-## Currently Exploring
+## 06 / CURRENT ENGINEERING INTERESTS
 
-- AI applications and LLM integration
-- Cloud-native application development
-- Scalable SaaS architecture
-- Backend engineering and system design
-- Modern frontend architecture
+- AI-powered applications and LLM integration.
+- Scalable full-stack and SaaS architecture.
+- Cloud-native application development.
+- Backend engineering and system design.
+- Modern frontend architecture and performance.
 
 ---
 
-## Let's Connect
+## 07 / LET'S BUILD SOMETHING MEANINGFUL
 
-I'm interested in collaborating on meaningful products, exploring emerging technologies, and learning from people building impactful solutions.
+Interested in collaborating on innovative products, solving engineering challenges, and building technology with real-world impact.
 
 <p align="center">
-  <a href="https://github.com/AMBIKAKAS">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/ambika70026/">LinkedIn</a> ·
+  <a href="https://github.com/AMBIKAKAS">GitHub</a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/ambika70026/">LinkedIn</a> &nbsp; · &nbsp;
   <a href="https://leetcode.com/u/Ambika2024/">LeetCode</a>
 </p>
 
 <p align="center">
-  <i>Build with purpose. Learn continuously. Create impact.</i>
+  <b>BUILD THOUGHTFULLY. ENGINEER RELIABLY. INNOVATE CONTINUOUSLY.</b>
 </p>
